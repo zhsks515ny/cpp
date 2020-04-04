@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+// 윤성우 도전! 프로그래밍3 TOO HARD I really need to study!!
 int move(int(*ptr)[100], int size, int *C_ptr) {
 	
 	int x = 0;
